@@ -6,7 +6,7 @@ import 'package:taskaty_app/features/auth/models/user_model.dart';
 import 'package:taskaty_app/taskati_app.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized(); // Ensure Flutter bindings are initialized before using Hive
   await Hive.initFlutter();
 
   if (!Hive.isAdapterRegistered(0)) {
