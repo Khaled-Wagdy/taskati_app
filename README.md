@@ -1,0 +1,55 @@
+# Taskaty App 📝✅
+
+A Flutter application for managing daily tasks efficiently with a clean and simple UI.
+
+---
+
+## 📸 Screenshots
+
+### Splash Screen 🌅
+The splash screen shown when the app starts, giving users a welcoming first impression.
+
+![Splash Screen](https://raw.githubusercontent.com/Khaled-Wagdy/taskati_app/56e29759e1717e3ad8f00bb93223792731dcac7f/Screenshot%20(29).png)
+
+
+### Home Screen 🏠
+The main screen of the Taskaty App, where users can see and manage their tasks efficiently.
+
+![Home Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/4b2c1c5d6b17352c91e9d42a2a795de0bf8da415/Screenshot%20(38).png)
+
+###  Viwe Screen
+![Add Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/943432e285f777d8a7020d1835c61c78fc5d7819/Screenshot%20(41).png)
+### Add Screen 
+![Add Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/1fe09ea1bbdd53fa381b5727a06755bd4eeeaf06/Screenshot%20(42).png)
+
+
+
+
+---
+
+## 🚀 Features
+- Clean & simple UI design
+- Splash screen
+- Home screen with task management
+- Organized feature-based project structure
+- Built with Flutter & Dart
+- Ready for cross-platform (Android, iOS, Web, Desktop)
+
+---
+
+## ▶️ Getting Started
+
+This project is a starting point for a Flutter application. Follow the instructions below to run it locally.
+
+### Prerequisites
+- Flutter SDK
+- Dart
+- Android Studio or VS Code
+
+### Run the Project
+```bash
+flutter pub get
+flutter run
+
+
+
