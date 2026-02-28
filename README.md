@@ -20,7 +20,7 @@ The main screen of the Taskaty App, where users can see and manage their tasks e
 ###  Viwe Screen
 ![Add Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/943432e285f777d8a7020d1835c61c78fc5d7819/Screenshot%20(41).png)
 ### Add Screen 
-![Add Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/9f26850a75b8b4a1e77413bab76a7a8bc49a58f6/Screenshot%20(46).png)
+![Add Screen](https://github.com/Khaled-Wagdy/taskati_app/blob/e44950e3af1723eccb649a0766c15bba2571631d/Screenshot%20(48).png)
 
 
 
